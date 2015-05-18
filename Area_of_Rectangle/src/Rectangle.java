@@ -2,7 +2,7 @@
 public class Rectangle {
 
 	// data fields: usually private
-	private int length, width;
+	private int length, width, total;
 
 	// constructor, must be public, no parameters
 	public Rectangle() {
