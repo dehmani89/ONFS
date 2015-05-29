@@ -20,7 +20,7 @@ public class Rectangle_Driver {
       System.out.println("  r1 Perim: " + r1.getPerim());
       System.out.println("  r2 area: " + r2.getArea());
       System.out.println("  r2 Perim: " + r2.getPerim());
-      
+      System.out.println("~AMINE");
       System.out.println("End of Program");
    }
 }
