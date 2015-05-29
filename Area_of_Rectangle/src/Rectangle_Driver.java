@@ -6,7 +6,7 @@ public class Rectangle_Driver {
       Rectangle r1 = new Rectangle();
       System.out.println(r1);  // calls toString of r1
 
-      Rectangle r2 = new Rectangle(4,3);
+      Rectangle r2 = new Rectangle(5,3);
       System.out.println(r2);  // calls toString of r2
 
       System.out.println("Test getLength, getWidth ...");
