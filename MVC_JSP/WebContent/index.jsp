@@ -43,8 +43,7 @@
 
 	<div id="wrapper">
 		<!-- Navigation -->
-		<nav class="navbar navbar-default navbar-static-top" role="navigation"
-			style="margin-bottom: 0">
+		<nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin: 0; background-color: #FFFFFF;" >
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse"
 					data-target=".navbar-collapse">
@@ -52,7 +51,7 @@
 						class="icon-bar"></span> <span class="icon-bar"></span> <span
 						class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="index.jsp">LOGO GOES HERE</a>
+				<a class="navbar-brand" href="index.jsp">Java Dev</a>
 			</div>
 			<div class="navbar-default sidebar" role="navigation">
 				<div class="sidebar-nav navbar-collapse">
